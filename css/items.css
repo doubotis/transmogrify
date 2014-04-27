@@ -1,0 +1,85 @@
+.item-icon
+{
+    width: 32px;
+    height: 32px;
+    margin-right: 6px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.item-name {
+    position: absolute;
+    left: 150px;
+    top: 13px;
+}
+
+.item-epic
+{
+    text-decoration: none;
+    color: #c600ff !important;
+    font-weight: bold;
+}
+.item-epic a
+{
+    text-decoration: none;
+    color: #c600ff !important;
+    font-weight: bold;
+}
+
+.item-legendary
+{
+    text-decoration: none;
+    color: orange !important;
+    font-weight: bold;    
+}
+.item-legendary a
+{
+    text-decoration: none;
+    color: orange !important;
+    font-weight: bold; 
+}
+
+.item-rare
+{
+    text-decoration: none;
+    color: blue !important;
+    font-weight: bold;    
+}
+.item-rare a
+{
+    text-decoration: none;
+    color: blue !important;
+    font-weight: bold;  
+}
+
+.item-unusual
+{
+    text-decoration: none;
+    color: green !important;
+    font-weight: bold;    
+}
+.item-unusual a
+{
+    text-decoration: none;
+    color: green !important;
+    font-weight: bold;   
+}
+
+.item-common
+{
+    text-decoration: none;
+    color: gray !important;
+    font-weight: bold;
+}
+.item-common a
+{
+    text-decoration: none;
+    color: gray !important;
+    font-weight: bold;
+}
+
+.item-none
+{
+    color: gray;
+    font-style: italic;
+}

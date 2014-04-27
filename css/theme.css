@@ -1,0 +1,159 @@
+.navbar-inverse {
+    background-image: -webkit-linear-gradient(top,#3c3c3c 0,#222 100%);
+    background-image: linear-gradient(to bottom,#3c3c3c 0,#222 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3c3c3c', endColorstr='#ff222222', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+    background-image: -webkit-linear-gradient(top,#222 0,#282828 100%);
+    background-image: linear-gradient(to bottom,#222 0,#282828 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff222222', endColorstr='#ff282828', GradientType=0);
+    -webkit-box-shadow: inset 0 3px 9px rgba(0,0,0,.25);
+    box-shadow: inset 0 3px 9px rgba(0,0,0,.25);
+}
+
+.main-site
+{
+    padding-top: 70px;
+}
+
+.left-panel {
+    float: left;
+    width: 50%;
+    padding: 15px;
+}
+.right-panel {
+    width: 50%;
+    padding: 15px;
+    margin-left: 50%;
+}
+
+.armory
+{
+    padding: 15px;
+    background-color: #181818;
+    width: 420px;
+    border-radius: 10px;
+    position: relative;
+    top: 10px;
+}
+
+.sample
+{
+    
+}
+
+.footer
+{
+    
+}
+
+h2
+{
+    margin-top: 10px;
+}
+
+.lead
+{
+    font-size: 19px;
+}
+
+.sample
+{
+    padding: 10px;
+    margin-top: -15px;
+}
+
+.modal .modal-dialog
+{
+    width: 700px;
+}
+
+#object-preview-loader
+{
+    position: absolute;
+    top: 175px;
+    left: 105px;
+    width: 32px;
+    height: 32px;
+}
+
+.object-preview-frame
+{
+    width: 210px;
+    height: 210px;
+}
+
+#object-preview
+{
+    width: 200px;
+    height: 200px;
+    background-size:4780px 200px;
+    background-position: 0px 0px;
+}
+
+.vertical-divider
+{
+    width: 1px;
+    height: 16px;
+    color: gray;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#list-info
+{
+    position: absolute;
+    top: 127px;
+    width: 381px;
+    height: 272px;
+    background-color: rgb(238, 238, 238);
+}
+
+#list-info div
+{
+    margin: 50px;
+    text-align: center;
+    color: gray;
+    text-shadow: -1px -1px white;
+}
+
+.equipment-slot
+{
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.container-set
+{
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    background-color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.container-set:hover
+{
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    background-color: rgb(243, 243, 243);
+    margin: 10px;
+    text-decoration: none;
+}
+
+
+.icon-set
+{
+    width: 150px;
+    height: 150px;
+    border: 1px solid lightgray;
+    background-size: 150px;
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+}
